@@ -1,1 +1,1 @@
-python -m streamlit run streamlit_app.py --8000 localhost
+python -m streamlit run streamlit_app.py --server.port 3000
