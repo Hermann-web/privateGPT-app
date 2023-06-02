@@ -172,3 +172,4 @@ cython_debug/
 #.idea/
 
 .brev/
+Pipfile.lock
