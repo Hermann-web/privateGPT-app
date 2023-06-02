@@ -1,5 +1,6 @@
 Pipfile.lock
-.dev-data
+.dev-data/
+*.bak
 
 # OSX
 .DS_STORE
